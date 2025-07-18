@@ -1,6 +1,7 @@
 # gfGPT 💕
 
 **Your girlfriend response assistant - Never be speechless again!**
+if you are girl and what the other part then visit [bfGPT](https://github.com/Sharma-Ji-21/BF-GPT) made by @Sharma-Ji-21
 
 ---
 
